@@ -1,0 +1,64 @@
+body{
+    overflow-x: hidden;
+}
+.header-content{
+    background: #333 url("../assets/bg-image.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: block;
+    background-blend-mode: overlay;
+}
+.header-text{
+    margin-top: 15em;
+    color: floralwhite;
+    font-size: large;
+}
+.sec1-text{
+    
+    margin-left: 3em;
+    margin-right: 3em;
+}
+.cards{
+    background: #333 url("../assets/bg-image-2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: block;
+}
+.card{
+    margin: 1.2em;
+}
+.card-title{
+    font-weight: bold;
+    padding-top: 1em;
+}
+.card-text{
+    padding: 1em;
+    font-size: 1.1em;
+}
+.sec3-text{
+    font-size: 1.2em;
+}
+.sec4-body{
+    background: url("../assets/bg-image-3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: block;
+}
+/* .contact-sec{
+    background: rgb(65, 65, 65);
+}
+.about-sec{
+    background: #333;
+} */
+.contact-text{
+    font-size: 1.1em;
+}
+.about-text{
+    font-size: 1.1em;
+}
